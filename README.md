@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Aaqil</h1>
+<h1>Hi, I'm Aaqil</h1>
 <h3>A developer from India</h3>
 
 - 🌱 I’m currently learning **Web development and DevOps**
