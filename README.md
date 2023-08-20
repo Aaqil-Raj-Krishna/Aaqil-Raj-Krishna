@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **aaqilrk@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/AaqilRajKrishna_Resume](https://bit.ly/AaqilRajKrishna_Resume)
-
 - ⚡ Fun fact **I'm serious all the time 👀**
 
 <h3 align="left">Connect with me:</h3>
